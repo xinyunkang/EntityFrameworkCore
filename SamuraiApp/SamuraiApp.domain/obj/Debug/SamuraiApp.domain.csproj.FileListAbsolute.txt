@@ -49,7 +49,6 @@ C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\b
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\bin\Debug\System.Interactive.Async.xml
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.domain.dll
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.domain.pdb
