@@ -16,7 +16,7 @@ namespace SamuraiApp.Data.Migrations
                 .HasAnnotation("ProductVersion", "1.1.1")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("SamuraiApp.domain.Battle", b =>
+            modelBuilder.Entity("SamuraiApp.Domain.Battle", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
@@ -32,7 +32,7 @@ namespace SamuraiApp.Data.Migrations
                     b.ToTable("Battles");
                 });
 
-            modelBuilder.Entity("SamuraiApp.domain.Quote", b =>
+            modelBuilder.Entity("SamuraiApp.Domain.Quote", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
@@ -48,7 +48,7 @@ namespace SamuraiApp.Data.Migrations
                     b.ToTable("Quote");
                 });
 
-            modelBuilder.Entity("SamuraiApp.domain.Samurai", b =>
+            modelBuilder.Entity("SamuraiApp.Domain.Samurai", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd();
@@ -60,7 +60,7 @@ namespace SamuraiApp.Data.Migrations
                     b.ToTable("Samurai");
                 });
 
-            modelBuilder.Entity("SamuraiApp.domain.SamuraiBattle", b =>
+            modelBuilder.Entity("SamuraiApp.Domain.SamuraiBattle", b =>
                 {
                     b.Property<int>("BattleId");
 
@@ -73,24 +73,49 @@ namespace SamuraiApp.Data.Migrations
                     b.ToTable("SamuraiBattle");
                 });
 
-            modelBuilder.Entity("SamuraiApp.domain.Quote", b =>
+            modelBuilder.Entity("SamuraiApp.Domain.SecretIdentity", b =>
                 {
-                    b.HasOne("SamuraiApp.domain.Samurai", "Samurai")
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd();
+
+                    b.Property<string>("RealName");
+
+                    b.Property<int>("SamuraiId");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("SamuraiId")
+                        .IsUnique();
+
+                    b.ToTable("SecretIdentity");
+                });
+
+            modelBuilder.Entity("SamuraiApp.Domain.Quote", b =>
+                {
+                    b.HasOne("SamuraiApp.Domain.Samurai", "Samurai")
                         .WithMany("Quotes")
                         .HasForeignKey("SamuraiId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
 
-            modelBuilder.Entity("SamuraiApp.domain.SamuraiBattle", b =>
+            modelBuilder.Entity("SamuraiApp.Domain.SamuraiBattle", b =>
                 {
-                    b.HasOne("SamuraiApp.domain.Battle", "Battle")
+                    b.HasOne("SamuraiApp.Domain.Battle", "Battle")
                         .WithMany("SamuraiBattles")
                         .HasForeignKey("BattleId")
                         .OnDelete(DeleteBehavior.Cascade);
 
-                    b.HasOne("SamuraiApp.domain.Samurai", "Samurai")
+                    b.HasOne("SamuraiApp.Domain.Samurai", "Samurai")
                         .WithMany("SamuraiBattles")
                         .HasForeignKey("SamuraiId")
+                        .OnDelete(DeleteBehavior.Cascade);
+                });
+
+            modelBuilder.Entity("SamuraiApp.Domain.SecretIdentity", b =>
+                {
+                    b.HasOne("SamuraiApp.Domain.Samurai", "Samurai")
+                        .WithOne("SecretIdentity")
+                        .HasForeignKey("SamuraiApp.Domain.SecretIdentity", "SamuraiId")
                         .OnDelete(DeleteBehavior.Cascade);
                 });
         }

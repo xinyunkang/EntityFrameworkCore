@@ -1,4 +1,4 @@
-﻿namespace SamuraiApp.domain
+﻿namespace SamuraiApp.Domain
 {
     public class Quote
     {

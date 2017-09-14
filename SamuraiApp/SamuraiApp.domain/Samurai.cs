@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SamuraiApp.domain
+namespace SamuraiApp.Domain
 {
     public class Samurai
     {
@@ -14,6 +14,7 @@ namespace SamuraiApp.domain
         public List<Quote> Quotes { get; set; }
         //public int BattleId { get; set; }   no longer needed
         public List<SamuraiBattle> SamuraiBattles { get; set; }
+        public SecretIdentity SecretIdentity { get; set; }  //OK to be null
 
     }
 }

@@ -178,6 +178,10 @@
     <Compile Include="Migrations\20170914205211_joinTable.designer.cs">
       <DependentUpon>20170914205211_joinTable.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20170914212352_secretIdentity.cs" />
+    <Compile Include="Migrations\20170914212352_secretIdentity.designer.cs">
+      <DependentUpon>20170914212352_secretIdentity.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\SamuraiContextModelSnapshot.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SamuraiContext.cs" />

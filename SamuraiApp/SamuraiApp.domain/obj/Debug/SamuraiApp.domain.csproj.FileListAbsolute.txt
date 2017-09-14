@@ -70,3 +70,4 @@ C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\b
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.domain.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\bin\Debug\netcoreapp2.0\ScaffoldFromDatabase.deps.json
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\bin\Debug\netcoreapp2.0\ScaffoldFromDatabase.runtimeconfig.json
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\bin\Debug\netcoreapp2.0\ScaffoldFromDatabase.runtimeconfig.dev.json
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\bin\Debug\netcoreapp2.0\ScaffoldFromDatabase.dll
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\obj\Debug\netcoreapp2.0\ScaffoldFromDatabase.csprojResolveAssemblyReference.cache
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\obj\Debug\netcoreapp2.0\ScaffoldFromDatabase.csproj.CoreCompileInputs.cache
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\obj\Debug\netcoreapp2.0\ScaffoldFromDatabase.AssemblyInfoInputs.cache
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\obj\Debug\netcoreapp2.0\ScaffoldFromDatabase.AssemblyInfo.cs
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\bin\Debug\netcoreapp2.0\ScaffoldFromDatabase.pdb
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\obj\Debug\netcoreapp2.0\ScaffoldFromDatabase.dll
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\ScaffoldFromDatabase\ScaffoldFromDatabase\ScaffoldFromDatabase\obj\Debug\netcoreapp2.0\ScaffoldFromDatabase.pdb

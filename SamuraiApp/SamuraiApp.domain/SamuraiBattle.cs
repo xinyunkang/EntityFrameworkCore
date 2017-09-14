@@ -1,4 +1,4 @@
-﻿namespace SamuraiApp.domain
+﻿namespace SamuraiApp.Domain
 {
     //To handle the many to many relationship between Samurai and Battle.
     public class SamuraiBattle
