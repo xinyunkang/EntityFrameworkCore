@@ -8,11 +8,11 @@ using SamuraiApp.Domain;
 
 namespace SamuraiApp.Data
 {
-    class SamuraiContext:DbContext
+    public class SamuraiContext:DbContext
     {
-        public DbSet<Samurai> Samurai { get; set; }
+        public DbSet<Samurai> Samurais { get; set; }
         public DbSet<Battle> Battles { get; set; }
-        public DbSet<Quote> Quote { get; set; }
+        public DbSet<Quote> Quotes { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<SamuraiBattle>().HasKey(s => new { s.BattleId, s.SamuraiId });
@@ -26,7 +26,7 @@ namespace SamuraiApp.Data
                 "Server=(localdb)\\MSSQLLocalDB;Database=SamuraiData;Trusted_Connection=true;"
                 ,b => b.MigrationsAssembly("SamuraiApp.Data")
                 );
-            
+            optionsBuilder.EnableSensitiveDataLogging();
         }
     }
 }

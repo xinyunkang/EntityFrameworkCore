@@ -1,5 +1,3 @@
-C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csprojResolveAssemblyReference.cache
-C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csproj.CoreCompileInputs.cache
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.dll.config
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.dll
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\SamuraiApp.Data.pdb
@@ -72,5 +70,7 @@ C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\System.Interactive.Async.xml
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csprojResolveAssemblyReference.cache
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.csproj.CoreCompileInputs.cache
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.dll
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.Data\obj\Debug\SamuraiApp.Data.pdb
