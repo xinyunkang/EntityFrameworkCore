@@ -70,3 +70,4 @@ C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\b
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.Domain.csproj.CoreCompileInputs.cache
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.domain.dll
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.domain.pdb
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\SamuraiApp.domain\obj\Debug\SamuraiApp.Domain.csprojResolveAssemblyReference.cache

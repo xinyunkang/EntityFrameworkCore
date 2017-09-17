@@ -77,3 +77,4 @@ C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\Tests\bin\Debug\Sys
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\Tests\obj\Debug\Tests.dll
 C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\Tests\obj\Debug\Tests.pdb
+C:\Users\xinyu\Desktop\GitHub\EntityFrameworkCore\SamuraiApp\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
